@@ -1,0 +1,12 @@
+{
+    "title": "Welcome, {name}! 🎉",
+    "color": "blurple",
+    "description": "Hey there! You've joined **{server}** — we're happy to have you.\n\nCurrently **{count}** members strong!",
+    "thumbnail": "https://cdn.discordapp.com/embed/avatars/0.png",
+    "fields": [
+        { "name": "📜 Rules", "value": "Check out <#rules> before chatting.", "inline": false },
+        { "name": "🎤 Intros", "value": "Drop a message in <#introductions>!", "inline": false }
+    ],
+    "footer": { "text": "CuteCord Bot • Have fun!" },
+    "timestamp": true
+}

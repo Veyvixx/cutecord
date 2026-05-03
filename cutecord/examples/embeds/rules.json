@@ -1,0 +1,14 @@
+{
+    "title": "📋 Server Rules — {server}",
+    "color": "gold",
+    "description": "Please read and follow these rules to keep the community great for everyone.",
+    "fields": [
+        { "name": "1️⃣  Be respectful", "value": "Treat everyone kindly. No harassment, slurs, or bullying.", "inline": false },
+        { "name": "2️⃣  No spam", "value": "No repeated messages, excessive caps, or wall-of-text dumps.", "inline": false },
+        { "name": "3️⃣  Keep it on-topic", "value": "Use the right channels for the right conversations.", "inline": false },
+        { "name": "4️⃣  No NSFW", "value": "Keep all content safe-for-work unless in a designated channel.", "inline": false },
+        { "name": "5️⃣  Follow Discord ToS", "value": "https://discord.com/terms", "inline": false }
+    ],
+    "footer": { "text": "Breaking rules may result in a mute or ban." },
+    "timestamp": true
+}
