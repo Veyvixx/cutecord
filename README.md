@@ -1,4 +1,4 @@
-# CuteCord ✨
+# Cutecord
 
 A cute, design-first Python wrapper around [discord.py / py-cord](https://docs.pycord.dev) that makes building beautiful Discord bots a joy.
 
